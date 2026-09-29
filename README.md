@@ -2,6 +2,10 @@
 
 An exploratory data analysis of daily air quality across 26 Indian cities, using Python (pandas, matplotlib, seaborn).
 
+## Interactive dashboard
+
+[View the Tableau Public dashboard](https://public.tableau.com/app/profile/sakhi.bhagat/viz/IndiaAirQualityDashboard2015-2020/Dashboard1). Click a city in the bar chart to see its month-by-month AQI pattern.
+
 ## Questions answered
 
 1. Which cities are the most and least polluted?
